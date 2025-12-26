@@ -1,1 +1,1 @@
-# Calculator
+# Student Management system
